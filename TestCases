@@ -1,0 +1,56 @@
+#TestCase for cart feature on amazon
+
+•	Verify that when user clicks on add to cart, the product should be added to cart.
+•	Verify that user should be able to continue shopping after adding items to cart.
+•	Verify that item quantity should be increased if user adds same item in cart again.
+•	Verify that total amount of all items should be displayed to user.
+•	Verity that the amount displayed to user should include the taxes and shipping charges as per location.
+•	Verify that user should not be able to add items in cart beyond a certain limit.
+•	Verify that when user clicks on remove from cart button the item should be removed from cart.
+•	Verify that user should be able to apply coupons or vouchers at checkout from cart.
+•	Verify that items in cart should be present if user logs out and logs in again.
+•	Verify that discount should be applied to the products added to the cart
+
+
+#TestCase for Google Search
+•	Verify that Google Logo is present and centre aligned
+•	Verify that the search textbox is centre aligned and editable
+•	Verify that search request should get hit by clicking on search button or hitting enter after writing the search term
+•	Verify that in the search result- webpage’s title, URL and description are present
+•	Verify that clicking the search result will lead to the corresponding web page
+•	Verify that pagination is present in case number of results are greater than the maximum results allowed in a page
+•	Verify that user can navigate to a page number directly or move to previous or next page using the links present
+•	Verify that different languages links are present and gets applied on clicking the same
+•	Verify that the total number of results for the keyword is displayed
+•	Verify that the time taken to fetch the result is displayed
+
+
+#TestCase for Drone
+
+•	Verify that the Drone motor starts when switched on
+•	Verify that the Drone and controller are connected
+•	Verify that the Drone controller is fully charged
+•	Verify that the Drone frequency is properly set for the required range
+•	Verify that the Standard Prop and Pusher Prop are not damaged and bent
+•	Verify that both the Landing Gears are equal
+•	Verify that the Drone camera is able to rotate as required
+•	Verify that the Drone Controller Power light is turned ON
+•	Verify that the FPV Screen on your Drone Controller is clear and visible
+•	Verify that the Drone Receiver is properly functioning to receive radio signals from the drone controller.
+
+
+
+#TestCase for Self-driven cars
+•	Verify that the car is able to recognize that its radar, cameras and other sensors could be impaired, and adjust its driving strategies accordingly.
+•	Verify that the car recognises a pedestrian, or an object  and stops
+•	Verify that the car recognises a pot hole and avoids it
+•	Verify that the car detects the signals and stops when the signal is turned red
+•	Verify that the car maintenance a minimum distance from other vehicle’s
+•	 Verify that the car takes appropriate decision to avoid collision 
+•	Verify that the car maintenance an appropriate speed limit 
+•	Verify that the car switches ON the correct indicator while taking a turn 
+•	Verify that the car switches ON the Head Lights when required
+•	Verify that the car honks when required
+
+
+
