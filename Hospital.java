@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Hospital{
-    static int local_patient;
-	static int outofstation;
+static int local_patient;
+static int outofstation;
     public static void main(String [] args){
         
         Scanner in = new Scanner(System.in);
